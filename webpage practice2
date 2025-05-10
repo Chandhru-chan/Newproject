@@ -1,0 +1,47 @@
+<hd>
+    <title>Table and Form</title>
+</hd>
+
+<table border="1">
+<tr>
+    <td><h2>Name</h2></td> 
+    <td><h2>Age</h2></td>
+</tr>
+<tr>
+    <td>Chandhru</td>
+    <td>20</td>
+</tr>
+<tr>
+    <td>vishal</td>
+    <td>18</td>
+</tr>
+
+
+</table>
+<hr>
+
+<center>
+    <h1>IPL TEAM</h1>
+    <table border="2">
+        <tr>
+            <td>Name</td>
+            <td>Age</td>
+            <td>Team</td>
+        </tr>
+        <tr>
+            <td>Dhoni</td>
+            <td>50</td>
+            <td>CSK</td>
+        </tr>
+        <tr>
+            <td>virat Kholi</td>
+            <td>45</td>
+            <td>RCB</td>
+        </tr>
+        <tr>
+            <td>Rohit Sharma</td>
+            <td>48</td>
+            <td>MI</td>
+        </tr>
+    </table>
+</center>
